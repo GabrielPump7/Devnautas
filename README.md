@@ -1,5 +1,3 @@
-
-
 # Devnautas 
 
 Um site feito para desenvolvedores contribuintes do projeto para mostrar melhor suas biografias e expectativas de vida baseado em desenvolvimento de sistemas
@@ -66,10 +64,12 @@ git push
 ## Autores
 
 - Idealizador do projeto - Gabriel P. - [@GabrielPump7](https://github.com/GabrielPump7)
-- O detalhista - Marcos - [@marcos-r](https://github.com/marcos-r)
+- O detalhista - Marcos - [@Marcos-vr](https://github.com/Marcos-vr)
 - O designer - Guilherme Augusto - [@GuiAugu](https://github.com/GuiAugu)
 - Desenvolvedor de base -Guilherme Duarte - [@Droxzxzxzxzxz](https://github.com/Droxzxzxzxzxz)
 - Documantação e divulgador do projeto - Átila Bragatto - [@ATILAGATTO](https://github.com/ATILAGATTO)
+
+
 
 
 
