@@ -1,7 +1,7 @@
 
 # Devnautas 
 
-Um site feito para pessoas com dificuldade em consegir emprego e empresas com difuculdade em achar candidatos para suas vagas de emprego, facilitando o desenvolvimento de um prefil profissional ampliando as possibilidades de seu perfil profissional ser visto por grandes empresas e sua empresas terem profissionais qualificados
+Um site feito para desenvolvedores contribuintes do projeto para mostrar melhor suas biografias e expectativas de vida baseado em desenvolvimento de sistemas
 
 
 ## Instalação 
@@ -69,4 +69,6 @@ git push
 - O designer - Guilherme Augusto - [@GuiAugu](https://github.com/GuiAugu)
 - Desenvolvedor de base -Guilherme Duarte - [@Droxzxzxzxzxz](https://github.com/Droxzxzxzxzxz)
 - Documantação e divulgador do projeto - Átila Bragatto - [@ATILAGATTO](https://github.com/ATILAGATTO)
+
+
 
