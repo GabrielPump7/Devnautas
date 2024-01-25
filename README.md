@@ -1,4 +1,5 @@
 
+
 # Devnautas 
 
 Um site feito para desenvolvedores contribuintes do projeto para mostrar melhor suas biografias e expectativas de vida baseado em desenvolvimento de sistemas
@@ -35,7 +36,7 @@ Primeiramente certifique-se que o git esteja intalado e depois siga as seguinte 
 ```javascript
 git clone
 ```
-8- Depois de se certificar que o repositório local foi transformado em uma pasta no seu notebbok ou pc feche o terminal;
+8- Depois de se certificar que o repositório local foi transformado em uma pasta no seu notebbok ou pc ,feche o terminal;
 
 9- Abra novamente o  terminal e para criar sua branch:
 ```javascript
@@ -69,6 +70,7 @@ git push
 - O designer - Guilherme Augusto - [@GuiAugu](https://github.com/GuiAugu)
 - Desenvolvedor de base -Guilherme Duarte - [@Droxzxzxzxzxz](https://github.com/Droxzxzxzxzxz)
 - Documantação e divulgador do projeto - Átila Bragatto - [@ATILAGATTO](https://github.com/ATILAGATTO)
+
 
 
 
