@@ -34,22 +34,24 @@ Primeiramente certifique-se que o git esteja intalado e depois siga as seguinte 
 ```javascript
 git clone
 ```
-8- Depois de se certificar que o repositório local foi transformado em uma pasta no seu notebbok ou pc ,feche o terminal;
+8- Cole o link do repositório
 
-9- Abra novamente o  terminal e para criar sua branch:
+9- Depois de se certificar que o repositório local foi transformado em uma pasta no seu notebbok ou pc ,feche o terminal;
+
+10- Abra novamente o  terminal e para criar sua branch:
 ```javascript
 git checkout -b nomequequiser
 ```
 
-9- Faça as modificações necessárias na pasta do repositório;
+11- Faça as modificações necessárias na pasta do repositório;
 
-10- Feche o terminal;
+12- Feche o terminal;
 
-11- Abra novamente o terminal e verifique se os arquivos estão lá com o:
+13- Abra novamente o terminal e verifique se os arquivos estão lá com o:
 ```javascript
 git status
 ```
-12- Para adicioná-los digite:
+14- Para adicioná-los digite:
 ```javascript
 git add .
 ```
@@ -57,9 +59,9 @@ git add .
 ```javascript
 git commit -m "comentário"
 ```
-14- E por fim para enviar se repositório local digite:
+16- E por fim para enviar se repositório local digite:
 ```javascript
-git push
+git push--set-upstream origin Nomedasuabranch
 ```
 ## Autores
 
