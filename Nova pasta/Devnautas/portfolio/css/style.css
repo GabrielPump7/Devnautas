@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+.texto {
+    color:white;
+}
+.mouse:hover {
+    text-decoration: underline;
+    transition: 0.1s;
+}
+.image:hover {
+    color: gray;
+}
+
